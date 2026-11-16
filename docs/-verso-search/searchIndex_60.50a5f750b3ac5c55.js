@@ -1,0 +1,1 @@
+window.docContents[60].resolve({"/Haikus-about-cats/SUTD-Cats/Leaf/#The-Den--Haikus-about-cats--SUTD-Cats--Leaf":{"contents":"It's hard to avoid the green stuff when you're living the rockstar life.\n\n \n\n","context":"The Den\u0009Haikus about cats\u0009SUTD Cats","header":"1.3.6. Leaf","id":"/Haikus-about-cats/SUTD-Cats/Leaf/#The-Den--Haikus-about-cats--SUTD-Cats--Leaf"}});

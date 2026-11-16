@@ -4,3 +4,8 @@ main img {
   max-width: 100%;
   object-fit: contain;
 }
+
+main img[src$="stanley-dark.png"] {
+  height: 100px;
+  wrap
+}

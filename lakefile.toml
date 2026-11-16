@@ -1,5 +1,5 @@
-name = "netring"
-defaultTargets = ["Netring", "netring"]
+name = "webring"
+defaultTargets = ["Webring", "webring"]
 
 [[require]]
 name = "verso"
@@ -7,8 +7,8 @@ git = "https://github.com/leanprover/verso"
 rev = "v4.35.0"
 
 [[lean_lib]]
-name = "Netring"
+name = "Webring"
 
 [[lean_exe]]
-name = "netring"
-root = "NetringMain"
+name = "webring"
+root = "WebringMain"

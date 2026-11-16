@@ -1,0 +1,1 @@
+window.docContents[176].resolve({"/Haikus-about-cats/SUTD-Cats/Wagahai/#The-Den--Haikus-about-cats--SUTD-Cats--Wagahai":{"contents":" \n\n\n","context":"The Den\u0009Haikus about cats\u0009SUTD Cats","header":"1.3.12. Wagahai","id":"/Haikus-about-cats/SUTD-Cats/Wagahai/#The-Den--Haikus-about-cats--SUTD-Cats--Wagahai"}});

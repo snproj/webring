@@ -1,0 +1,1 @@
+window.docContents[49].resolve({"/Haikus-about-cats/NTU-Cats/#The-Den--Haikus-about-cats--NTU-Cats":{"contents":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n","context":"The Den\u0009Haikus about cats","header":"1.1. NTU Cats","id":"/Haikus-about-cats/NTU-Cats/#The-Den--Haikus-about-cats--NTU-Cats"}});

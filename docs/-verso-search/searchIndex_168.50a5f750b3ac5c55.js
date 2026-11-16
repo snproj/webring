@@ -1,0 +1,1 @@
+window.docContents[168].resolve({"/Haikus-about-cats/NTU-Cats/Snail/#The-Den--Haikus-about-cats--NTU-Cats--Snail":{"contents":"Resting at one end\n\nof a long and arduous bridge\n\nis a little snail.\n\n \n\n","context":"The Den\u0009Haikus about cats\u0009NTU Cats","header":"1.1.7. Snail","id":"/Haikus-about-cats/NTU-Cats/Snail/#The-Den--Haikus-about-cats--NTU-Cats--Snail"}});

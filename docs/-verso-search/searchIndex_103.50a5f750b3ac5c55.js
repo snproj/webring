@@ -1,0 +1,1 @@
+window.docContents[103].resolve({"/Blog-posts/I-like-explicit-explanations-in-art/#The-Den--Blog-posts--I-like-explicit-explanations-in-art":{"contents":"","context":"The Den\u0009Blog posts","header":"3.6. I like explicit explanations in art","id":"/Blog-posts/I-like-explicit-explanations-in-art/#The-Den--Blog-posts--I-like-explicit-explanations-in-art"}});

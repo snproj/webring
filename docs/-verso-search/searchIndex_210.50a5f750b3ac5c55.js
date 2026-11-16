@@ -1,0 +1,1 @@
+window.docContents[210].resolve({"/Haikus-about-cats/NUS-Cats/Silly/#The-Den--Haikus-about-cats--NUS-Cats--Silly":{"contents":"All these annoying\n\nand emptyheaded hoomans —\n\nwere I only one.\n\n \n\n","context":"The Den\u0009Haikus about cats\u0009NUS Cats","header":"1.2.4. Silly","id":"/Haikus-about-cats/NUS-Cats/Silly/#The-Den--Haikus-about-cats--NUS-Cats--Silly"}});

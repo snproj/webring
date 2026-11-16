@@ -1,0 +1,1 @@
+window.docContents[206].resolve({"/Haikus-about-cats/NTU-Cats/Palm/#The-Den--Haikus-about-cats--NTU-Cats--Palm":{"contents":"What are the palm trees\n\npeeking round the corner at?\n\nI wanna see too\n\n \n\n","context":"The Den\u0009Haikus about cats\u0009NTU Cats","header":"1.1.5. Palm","id":"/Haikus-about-cats/NTU-Cats/Palm/#The-Den--Haikus-about-cats--NTU-Cats--Palm"}});

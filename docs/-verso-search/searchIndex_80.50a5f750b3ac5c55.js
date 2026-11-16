@@ -1,0 +1,1 @@
+window.docContents[80].resolve({"/Media-I-Like/#The-Den--Media-I-Like":{"contents":"Comics\n\nI love relatable comics or else fantasy cheeeeeeeese\n\n* Willowyrm* Wyvernspell* Doghaus* Lackadaisy\n\nMusic\n\nhmmMarginal notes should be used like   footnotes.\n\n\n","context":"The Den","header":"2. Media I Like","id":"/Media-I-Like/#The-Den--Media-I-Like"}});

@@ -10,413 +10,566 @@
       "sectionNum": null,
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
+      [{"title": "The Den", "shortTitle": null, "number": null},
        {"title": "Index", "shortTitle": null, "number": null}]},
      "address": "/Index/"}],
-   "Bonjour--SUTD-Netring-Links":
-   [{"id": "Bonjour--SUTD-Netring-Links",
+   "The-Den--Webring-Links":
+   [{"id": "The-Den--Webring-Links",
      "data":
-     {"title": "SUTD Netring Links",
+     {"title": "Webring Links",
+      "shortTitle": null,
+      "sectionNum": "4.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Webring Links", "shortTitle": null, "number": "4"}]},
+     "address": "/Webring-Links/"}],
+   "The-Den--Stupid-Joke":
+   [{"id": "The-Den--Stupid-Joke",
+     "data":
+     {"title": "Stupid Joke",
+      "shortTitle": null,
+      "sectionNum": "5.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Stupid Joke", "shortTitle": null, "number": "5"}]},
+     "address": "/Stupid-Joke/"}],
+   "The-Den--Media-I-Like":
+   [{"id": "The-Den--Media-I-Like",
+     "data":
+     {"title": "Media I Like",
       "shortTitle": null,
       "sectionNum": "2.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "SUTD Netring Links", "shortTitle": null, "number": "2"}]},
-     "address": "/SUTD-Netring-Links/"}],
-   "Bonjour--Cat-Haikus--SUTD-Cats--Wagahai":
-   [{"id": "Bonjour--Cat-Haikus--SUTD-Cats--Wagahai",
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Media I Like", "shortTitle": null, "number": "2"}]},
+     "address": "/Media-I-Like/"}],
+   "The-Den--Haikus-about-cats--SUTD-Cats--Wagahai":
+   [{"id": "The-Den--Haikus-about-cats--SUTD-Cats--Wagahai",
      "data":
      {"title": "Wagahai",
       "shortTitle": null,
       "sectionNum": "1.3.12.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "SUTD Cats", "shortTitle": null, "number": "3"},
        {"title": "Wagahai", "shortTitle": null, "number": "12"}]},
-     "address": "/Cat-Haikus/SUTD-Cats/Wagahai/"}],
-   "Bonjour--Cat-Haikus--SUTD-Cats--Turf":
-   [{"id": "Bonjour--Cat-Haikus--SUTD-Cats--Turf",
+     "address": "/Haikus-about-cats/SUTD-Cats/Wagahai/"}],
+   "The-Den--Haikus-about-cats--SUTD-Cats--Turf":
+   [{"id": "The-Den--Haikus-about-cats--SUTD-Cats--Turf",
      "data":
      {"title": "Turf",
       "shortTitle": null,
       "sectionNum": "1.3.11.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "SUTD Cats", "shortTitle": null, "number": "3"},
        {"title": "Turf", "shortTitle": null, "number": "11"}]},
-     "address": "/Cat-Haikus/SUTD-Cats/Turf/"}],
-   "Bonjour--Cat-Haikus--SUTD-Cats--Sun":
-   [{"id": "Bonjour--Cat-Haikus--SUTD-Cats--Sun",
+     "address": "/Haikus-about-cats/SUTD-Cats/Turf/"}],
+   "The-Den--Haikus-about-cats--SUTD-Cats--Sun":
+   [{"id": "The-Den--Haikus-about-cats--SUTD-Cats--Sun",
      "data":
      {"title": "Sun",
       "shortTitle": null,
       "sectionNum": "1.3.10.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "SUTD Cats", "shortTitle": null, "number": "3"},
        {"title": "Sun", "shortTitle": null, "number": "10"}]},
-     "address": "/Cat-Haikus/SUTD-Cats/Sun/"}],
-   "Bonjour--Cat-Haikus--SUTD-Cats--Stretch":
-   [{"id": "Bonjour--Cat-Haikus--SUTD-Cats--Stretch",
+     "address": "/Haikus-about-cats/SUTD-Cats/Sun/"}],
+   "The-Den--Haikus-about-cats--SUTD-Cats--Stretch":
+   [{"id": "The-Den--Haikus-about-cats--SUTD-Cats--Stretch",
      "data":
      {"title": "Stretch",
       "shortTitle": null,
       "sectionNum": "1.3.9.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "SUTD Cats", "shortTitle": null, "number": "3"},
        {"title": "Stretch", "shortTitle": null, "number": "9"}]},
-     "address": "/Cat-Haikus/SUTD-Cats/Stretch/"}],
-   "Bonjour--Cat-Haikus--SUTD-Cats--Sesame":
-   [{"id": "Bonjour--Cat-Haikus--SUTD-Cats--Sesame",
+     "address": "/Haikus-about-cats/SUTD-Cats/Stretch/"}],
+   "The-Den--Haikus-about-cats--SUTD-Cats--Sesame":
+   [{"id": "The-Den--Haikus-about-cats--SUTD-Cats--Sesame",
      "data":
      {"title": "Sesame",
       "shortTitle": null,
       "sectionNum": "1.3.8.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "SUTD Cats", "shortTitle": null, "number": "3"},
        {"title": "Sesame", "shortTitle": null, "number": "8"}]},
-     "address": "/Cat-Haikus/SUTD-Cats/Sesame/"}],
-   "Bonjour--Cat-Haikus--SUTD-Cats--Sakura":
-   [{"id": "Bonjour--Cat-Haikus--SUTD-Cats--Sakura",
+     "address": "/Haikus-about-cats/SUTD-Cats/Sesame/"}],
+   "The-Den--Haikus-about-cats--SUTD-Cats--Sakura":
+   [{"id": "The-Den--Haikus-about-cats--SUTD-Cats--Sakura",
      "data":
      {"title": "Sakura",
       "shortTitle": null,
       "sectionNum": "1.3.7.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "SUTD Cats", "shortTitle": null, "number": "3"},
        {"title": "Sakura", "shortTitle": null, "number": "7"}]},
-     "address": "/Cat-Haikus/SUTD-Cats/Sakura/"}],
-   "Bonjour--Cat-Haikus--SUTD-Cats--Leaf":
-   [{"id": "Bonjour--Cat-Haikus--SUTD-Cats--Leaf",
+     "address": "/Haikus-about-cats/SUTD-Cats/Sakura/"}],
+   "The-Den--Haikus-about-cats--SUTD-Cats--Leaf":
+   [{"id": "The-Den--Haikus-about-cats--SUTD-Cats--Leaf",
      "data":
      {"title": "Leaf",
       "shortTitle": null,
       "sectionNum": "1.3.6.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "SUTD Cats", "shortTitle": null, "number": "3"},
        {"title": "Leaf", "shortTitle": null, "number": "6"}]},
-     "address": "/Cat-Haikus/SUTD-Cats/Leaf/"}],
-   "Bonjour--Cat-Haikus--SUTD-Cats--Journey":
-   [{"id": "Bonjour--Cat-Haikus--SUTD-Cats--Journey",
+     "address": "/Haikus-about-cats/SUTD-Cats/Leaf/"}],
+   "The-Den--Haikus-about-cats--SUTD-Cats--Journey":
+   [{"id": "The-Den--Haikus-about-cats--SUTD-Cats--Journey",
      "data":
      {"title": "Journey",
       "shortTitle": null,
       "sectionNum": "1.3.5.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "SUTD Cats", "shortTitle": null, "number": "3"},
        {"title": "Journey", "shortTitle": null, "number": "5"}]},
-     "address": "/Cat-Haikus/SUTD-Cats/Journey/"}],
-   "Bonjour--Cat-Haikus--SUTD-Cats--Guard":
-   [{"id": "Bonjour--Cat-Haikus--SUTD-Cats--Guard",
+     "address": "/Haikus-about-cats/SUTD-Cats/Journey/"}],
+   "The-Den--Haikus-about-cats--SUTD-Cats--Guard":
+   [{"id": "The-Den--Haikus-about-cats--SUTD-Cats--Guard",
      "data":
      {"title": "Guard",
       "shortTitle": null,
       "sectionNum": "1.3.4.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "SUTD Cats", "shortTitle": null, "number": "3"},
        {"title": "Guard", "shortTitle": null, "number": "4"}]},
-     "address": "/Cat-Haikus/SUTD-Cats/Guard/"}],
-   "Bonjour--Cat-Haikus--SUTD-Cats--Dreams":
-   [{"id": "Bonjour--Cat-Haikus--SUTD-Cats--Dreams",
+     "address": "/Haikus-about-cats/SUTD-Cats/Guard/"}],
+   "The-Den--Haikus-about-cats--SUTD-Cats--Dreams":
+   [{"id": "The-Den--Haikus-about-cats--SUTD-Cats--Dreams",
      "data":
      {"title": "Dreams",
       "shortTitle": null,
       "sectionNum": "1.3.3.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "SUTD Cats", "shortTitle": null, "number": "3"},
        {"title": "Dreams", "shortTitle": null, "number": "3"}]},
-     "address": "/Cat-Haikus/SUTD-Cats/Dreams/"}],
-   "Bonjour--Cat-Haikus--SUTD-Cats--Curtain":
-   [{"id": "Bonjour--Cat-Haikus--SUTD-Cats--Curtain",
+     "address": "/Haikus-about-cats/SUTD-Cats/Dreams/"}],
+   "The-Den--Haikus-about-cats--SUTD-Cats--Curtain":
+   [{"id": "The-Den--Haikus-about-cats--SUTD-Cats--Curtain",
      "data":
      {"title": "Curtain",
       "shortTitle": null,
       "sectionNum": "1.3.2.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "SUTD Cats", "shortTitle": null, "number": "3"},
        {"title": "Curtain", "shortTitle": null, "number": "2"}]},
-     "address": "/Cat-Haikus/SUTD-Cats/Curtain/"}],
-   "Bonjour--Cat-Haikus--SUTD-Cats--Amber":
-   [{"id": "Bonjour--Cat-Haikus--SUTD-Cats--Amber",
+     "address": "/Haikus-about-cats/SUTD-Cats/Curtain/"}],
+   "The-Den--Haikus-about-cats--SUTD-Cats--Amber":
+   [{"id": "The-Den--Haikus-about-cats--SUTD-Cats--Amber",
      "data":
      {"title": "Amber",
       "shortTitle": null,
       "sectionNum": "1.3.1.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "SUTD Cats", "shortTitle": null, "number": "3"},
        {"title": "Amber", "shortTitle": null, "number": "1"}]},
-     "address": "/Cat-Haikus/SUTD-Cats/Amber/"}],
-   "Bonjour--Cat-Haikus--SUTD-Cats":
-   [{"id": "Bonjour--Cat-Haikus--SUTD-Cats",
+     "address": "/Haikus-about-cats/SUTD-Cats/Amber/"}],
+   "The-Den--Haikus-about-cats--SUTD-Cats":
+   [{"id": "The-Den--Haikus-about-cats--SUTD-Cats",
      "data":
      {"title": "SUTD Cats",
       "shortTitle": null,
       "sectionNum": "1.3.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "SUTD Cats", "shortTitle": null, "number": "3"}]},
-     "address": "/Cat-Haikus/SUTD-Cats/"}],
-   "Bonjour--Cat-Haikus--NUS-Cats--Wares":
-   [{"id": "Bonjour--Cat-Haikus--NUS-Cats--Wares",
+     "address": "/Haikus-about-cats/SUTD-Cats/"}],
+   "The-Den--Haikus-about-cats--NUS-Cats--Wares":
+   [{"id": "The-Den--Haikus-about-cats--NUS-Cats--Wares",
      "data":
      {"title": "Wares",
       "shortTitle": null,
       "sectionNum": "1.2.6.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "NUS Cats", "shortTitle": null, "number": "2"},
        {"title": "Wares", "shortTitle": null, "number": "6"}]},
-     "address": "/Cat-Haikus/NUS-Cats/Wares/"}],
-   "Bonjour--Cat-Haikus--NUS-Cats--Traveler":
-   [{"id": "Bonjour--Cat-Haikus--NUS-Cats--Traveler",
+     "address": "/Haikus-about-cats/NUS-Cats/Wares/"}],
+   "The-Den--Haikus-about-cats--NUS-Cats--Traveler":
+   [{"id": "The-Den--Haikus-about-cats--NUS-Cats--Traveler",
      "data":
      {"title": "Traveler",
       "shortTitle": null,
       "sectionNum": "1.2.5.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "NUS Cats", "shortTitle": null, "number": "2"},
        {"title": "Traveler", "shortTitle": null, "number": "5"}]},
-     "address": "/Cat-Haikus/NUS-Cats/Traveler/"}],
-   "Bonjour--Cat-Haikus--NUS-Cats--Silly":
-   [{"id": "Bonjour--Cat-Haikus--NUS-Cats--Silly",
+     "address": "/Haikus-about-cats/NUS-Cats/Traveler/"}],
+   "The-Den--Haikus-about-cats--NUS-Cats--Silly":
+   [{"id": "The-Den--Haikus-about-cats--NUS-Cats--Silly",
      "data":
      {"title": "Silly",
       "shortTitle": null,
       "sectionNum": "1.2.4.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "NUS Cats", "shortTitle": null, "number": "2"},
        {"title": "Silly", "shortTitle": null, "number": "4"}]},
-     "address": "/Cat-Haikus/NUS-Cats/Silly/"}],
-   "Bonjour--Cat-Haikus--NUS-Cats--Nat-Geo":
-   [{"id": "Bonjour--Cat-Haikus--NUS-Cats--Nat-Geo",
+     "address": "/Haikus-about-cats/NUS-Cats/Silly/"}],
+   "The-Den--Haikus-about-cats--NUS-Cats--Nat-Geo":
+   [{"id": "The-Den--Haikus-about-cats--NUS-Cats--Nat-Geo",
      "data":
      {"title": "Nat Geo",
       "shortTitle": null,
       "sectionNum": "1.2.3.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "NUS Cats", "shortTitle": null, "number": "2"},
        {"title": "Nat Geo", "shortTitle": null, "number": "3"}]},
-     "address": "/Cat-Haikus/NUS-Cats/Nat-Geo/"}],
-   "Bonjour--Cat-Haikus--NUS-Cats--Jade":
-   [{"id": "Bonjour--Cat-Haikus--NUS-Cats--Jade",
+     "address": "/Haikus-about-cats/NUS-Cats/Nat-Geo/"}],
+   "The-Den--Haikus-about-cats--NUS-Cats--Jade":
+   [{"id": "The-Den--Haikus-about-cats--NUS-Cats--Jade",
      "data":
      {"title": "Jade",
       "shortTitle": null,
       "sectionNum": "1.2.2.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "NUS Cats", "shortTitle": null, "number": "2"},
        {"title": "Jade", "shortTitle": null, "number": "2"}]},
-     "address": "/Cat-Haikus/NUS-Cats/Jade/"}],
-   "Bonjour--Cat-Haikus--NUS-Cats--Behold":
-   [{"id": "Bonjour--Cat-Haikus--NUS-Cats--Behold",
+     "address": "/Haikus-about-cats/NUS-Cats/Jade/"}],
+   "The-Den--Haikus-about-cats--NUS-Cats--Behold":
+   [{"id": "The-Den--Haikus-about-cats--NUS-Cats--Behold",
      "data":
      {"title": "Behold",
       "shortTitle": null,
       "sectionNum": "1.2.1.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "NUS Cats", "shortTitle": null, "number": "2"},
        {"title": "Behold", "shortTitle": null, "number": "1"}]},
-     "address": "/Cat-Haikus/NUS-Cats/Behold/"}],
-   "Bonjour--Cat-Haikus--NUS-Cats":
-   [{"id": "Bonjour--Cat-Haikus--NUS-Cats",
+     "address": "/Haikus-about-cats/NUS-Cats/Behold/"}],
+   "The-Den--Haikus-about-cats--NUS-Cats":
+   [{"id": "The-Den--Haikus-about-cats--NUS-Cats",
      "data":
      {"title": "NUS Cats",
       "shortTitle": null,
       "sectionNum": "1.2.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "NUS Cats", "shortTitle": null, "number": "2"}]},
-     "address": "/Cat-Haikus/NUS-Cats/"}],
-   "Bonjour--Cat-Haikus--NTU-Cats--Tree":
-   [{"id": "Bonjour--Cat-Haikus--NTU-Cats--Tree",
+     "address": "/Haikus-about-cats/NUS-Cats/"}],
+   "The-Den--Haikus-about-cats--NTU-Cats--Tree":
+   [{"id": "The-Den--Haikus-about-cats--NTU-Cats--Tree",
      "data":
      {"title": "Tree",
       "shortTitle": null,
       "sectionNum": "1.1.8.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "NTU Cats", "shortTitle": null, "number": "1"},
        {"title": "Tree", "shortTitle": null, "number": "8"}]},
-     "address": "/Cat-Haikus/NTU-Cats/Tree/"}],
-   "Bonjour--Cat-Haikus--NTU-Cats--Snail":
-   [{"id": "Bonjour--Cat-Haikus--NTU-Cats--Snail",
+     "address": "/Haikus-about-cats/NTU-Cats/Tree/"}],
+   "The-Den--Haikus-about-cats--NTU-Cats--Snail":
+   [{"id": "The-Den--Haikus-about-cats--NTU-Cats--Snail",
      "data":
      {"title": "Snail",
       "shortTitle": null,
       "sectionNum": "1.1.7.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "NTU Cats", "shortTitle": null, "number": "1"},
        {"title": "Snail", "shortTitle": null, "number": "7"}]},
-     "address": "/Cat-Haikus/NTU-Cats/Snail/"}],
-   "Bonjour--Cat-Haikus--NTU-Cats--Path":
-   [{"id": "Bonjour--Cat-Haikus--NTU-Cats--Path",
+     "address": "/Haikus-about-cats/NTU-Cats/Snail/"}],
+   "The-Den--Haikus-about-cats--NTU-Cats--Path":
+   [{"id": "The-Den--Haikus-about-cats--NTU-Cats--Path",
      "data":
      {"title": "Path",
       "shortTitle": null,
       "sectionNum": "1.1.6.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "NTU Cats", "shortTitle": null, "number": "1"},
        {"title": "Path", "shortTitle": null, "number": "6"}]},
-     "address": "/Cat-Haikus/NTU-Cats/Path/"}],
-   "Bonjour--Cat-Haikus--NTU-Cats--Palm":
-   [{"id": "Bonjour--Cat-Haikus--NTU-Cats--Palm",
+     "address": "/Haikus-about-cats/NTU-Cats/Path/"}],
+   "The-Den--Haikus-about-cats--NTU-Cats--Palm":
+   [{"id": "The-Den--Haikus-about-cats--NTU-Cats--Palm",
      "data":
      {"title": "Palm",
       "shortTitle": null,
       "sectionNum": "1.1.5.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "NTU Cats", "shortTitle": null, "number": "1"},
        {"title": "Palm", "shortTitle": null, "number": "5"}]},
-     "address": "/Cat-Haikus/NTU-Cats/Palm/"}],
-   "Bonjour--Cat-Haikus--NTU-Cats--Kat":
-   [{"id": "Bonjour--Cat-Haikus--NTU-Cats--Kat",
+     "address": "/Haikus-about-cats/NTU-Cats/Palm/"}],
+   "The-Den--Haikus-about-cats--NTU-Cats--Kat":
+   [{"id": "The-Den--Haikus-about-cats--NTU-Cats--Kat",
      "data":
      {"title": "Kat",
       "shortTitle": null,
       "sectionNum": "1.1.4.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "NTU Cats", "shortTitle": null, "number": "1"},
        {"title": "Kat", "shortTitle": null, "number": "4"}]},
-     "address": "/Cat-Haikus/NTU-Cats/Kat/"}],
-   "Bonjour--Cat-Haikus--NTU-Cats--In-the-Hat":
-   [{"id": "Bonjour--Cat-Haikus--NTU-Cats--In-the-Hat",
+     "address": "/Haikus-about-cats/NTU-Cats/Kat/"}],
+   "The-Den--Haikus-about-cats--NTU-Cats--In-the-Hat":
+   [{"id": "The-Den--Haikus-about-cats--NTU-Cats--In-the-Hat",
      "data":
      {"title": "In the Hat",
       "shortTitle": null,
       "sectionNum": "1.1.1.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "NTU Cats", "shortTitle": null, "number": "1"},
        {"title": "In the Hat", "shortTitle": null, "number": "1"}]},
-     "address": "/Cat-Haikus/NTU-Cats/In-the-Hat/"}],
-   "Bonjour--Cat-Haikus--NTU-Cats--Echo":
-   [{"id": "Bonjour--Cat-Haikus--NTU-Cats--Echo",
+     "address": "/Haikus-about-cats/NTU-Cats/In-the-Hat/"}],
+   "The-Den--Haikus-about-cats--NTU-Cats--Echo":
+   [{"id": "The-Den--Haikus-about-cats--NTU-Cats--Echo",
      "data":
      {"title": "Echo",
       "shortTitle": null,
       "sectionNum": "1.1.3.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "NTU Cats", "shortTitle": null, "number": "1"},
        {"title": "Echo", "shortTitle": null, "number": "3"}]},
-     "address": "/Cat-Haikus/NTU-Cats/Echo/"}],
-   "Bonjour--Cat-Haikus--NTU-Cats--Dance":
-   [{"id": "Bonjour--Cat-Haikus--NTU-Cats--Dance",
+     "address": "/Haikus-about-cats/NTU-Cats/Echo/"}],
+   "The-Den--Haikus-about-cats--NTU-Cats--Dance":
+   [{"id": "The-Den--Haikus-about-cats--NTU-Cats--Dance",
      "data":
      {"title": "Dance",
       "shortTitle": null,
       "sectionNum": "1.1.2.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "NTU Cats", "shortTitle": null, "number": "1"},
        {"title": "Dance", "shortTitle": null, "number": "2"}]},
-     "address": "/Cat-Haikus/NTU-Cats/Dance/"}],
-   "Bonjour--Cat-Haikus--NTU-Cats":
-   [{"id": "Bonjour--Cat-Haikus--NTU-Cats",
+     "address": "/Haikus-about-cats/NTU-Cats/Dance/"}],
+   "The-Den--Haikus-about-cats--NTU-Cats":
+   [{"id": "The-Den--Haikus-about-cats--NTU-Cats",
      "data":
      {"title": "NTU Cats",
       "shortTitle": null,
       "sectionNum": "1.1.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"},
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"},
        {"title": "NTU Cats", "shortTitle": null, "number": "1"}]},
-     "address": "/Cat-Haikus/NTU-Cats/"}],
-   "Bonjour--Cat-Haikus":
-   [{"id": "Bonjour--Cat-Haikus",
+     "address": "/Haikus-about-cats/NTU-Cats/"}],
+   "The-Den--Haikus-about-cats":
+   [{"id": "The-Den--Haikus-about-cats",
      "data":
-     {"title": "Cat Haikus",
+     {"title": "Haikus about cats",
       "shortTitle": null,
       "sectionNum": "1.",
       "searchPriority": 50,
       "context":
-      [{"title": "Bonjour", "shortTitle": null, "number": null},
-       {"title": "Cat Haikus", "shortTitle": null, "number": "1"}]},
-     "address": "/Cat-Haikus/"}],
-   "Bonjour":
-   [{"id": "Bonjour",
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Haikus about cats", "shortTitle": null, "number": "1"}]},
+     "address": "/Haikus-about-cats/"}],
+   "The-Den--Blog-posts--The-Curse-of-Hardware----A-language-centric-problem-framing":
+   [{"id":
+     "The-Den--Blog-posts--The-Curse-of-Hardware----A-language-centric-problem-framing",
      "data":
-     {"title": "Bonjour",
+     {"title": "The Curse of Hardware -- A language-centric problem framing",
+      "shortTitle": null,
+      "sectionNum": "3.1.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Blog posts", "shortTitle": null, "number": "3"},
+       {"title": "The Curse of Hardware -- A language-centric problem framing",
+        "shortTitle": null,
+        "number": "1"}]},
+     "address":
+     "/Blog-posts/The-Curse-of-Hardware----A-language-centric-problem-framing/"}],
+   "The-Den--Blog-posts--The-Abstract-Concept-of-Miku":
+   [{"id": "The-Den--Blog-posts--The-Abstract-Concept-of-Miku",
+     "data":
+     {"title": "The Abstract Concept of Miku",
+      "shortTitle": null,
+      "sectionNum": "3.5.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Blog posts", "shortTitle": null, "number": "3"},
+       {"title": "The Abstract Concept of Miku",
+        "shortTitle": null,
+        "number": "5"}]},
+     "address": "/Blog-posts/The-Abstract-Concept-of-Miku/"}],
+   "The-Den--Blog-posts--Some-arguments-I-enjoy-dissecting":
+   [{"id": "The-Den--Blog-posts--Some-arguments-I-enjoy-dissecting",
+     "data":
+     {"title": "Some arguments I enjoy dissecting",
+      "shortTitle": null,
+      "sectionNum": "3.7.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Blog posts", "shortTitle": null, "number": "3"},
+       {"title": "Some arguments I enjoy dissecting",
+        "shortTitle": null,
+        "number": "7"}]},
+     "address": "/Blog-posts/Some-arguments-I-enjoy-dissecting/"}],
+   "The-Den--Blog-posts--Rubber-ducking-is-just-proof-sketching":
+   [{"id": "The-Den--Blog-posts--Rubber-ducking-is-just-proof-sketching",
+     "data":
+     {"title": "Rubber ducking is just proof sketching",
+      "shortTitle": null,
+      "sectionNum": "3.8.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Blog posts", "shortTitle": null, "number": "3"},
+       {"title": "Rubber ducking is just proof sketching",
+        "shortTitle": null,
+        "number": "8"}]},
+     "address": "/Blog-posts/Rubber-ducking-is-just-proof-sketching/"}],
+   "The-Den--Blog-posts--Prescriptive-versus-descriptive":
+   [{"id": "The-Den--Blog-posts--Prescriptive-versus-descriptive",
+     "data":
+     {"title": "Prescriptive versus descriptive",
+      "shortTitle": null,
+      "sectionNum": "3.2.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Blog posts", "shortTitle": null, "number": "3"},
+       {"title": "Prescriptive versus descriptive",
+        "shortTitle": null,
+        "number": "2"}]},
+     "address": "/Blog-posts/Prescriptive-versus-descriptive/"}],
+   "The-Den--Blog-posts--I-like-explicit-explanations-in-art":
+   [{"id": "The-Den--Blog-posts--I-like-explicit-explanations-in-art",
+     "data":
+     {"title": "I like explicit explanations in art",
+      "shortTitle": null,
+      "sectionNum": "3.6.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Blog posts", "shortTitle": null, "number": "3"},
+       {"title": "I like explicit explanations in art",
+        "shortTitle": null,
+        "number": "6"}]},
+     "address": "/Blog-posts/I-like-explicit-explanations-in-art/"}],
+   "The-Den--Blog-posts--AIPunk----An-unimaginative-future-work-from-cyberpunk":
+   [{"id":
+     "The-Den--Blog-posts--AIPunk----An-unimaginative-future-work-from-cyberpunk",
+     "data":
+     {"title": "AIPunk -- An unimaginative future work from cyberpunk",
+      "shortTitle": null,
+      "sectionNum": "3.4.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Blog posts", "shortTitle": null, "number": "3"},
+       {"title": "AIPunk -- An unimaginative future work from cyberpunk",
+        "shortTitle": null,
+        "number": "4"}]},
+     "address":
+     "/Blog-posts/AIPunk----An-unimaginative-future-work-from-cyberpunk/"}],
+   "The-Den--Blog-posts--A-purely-materialistic-reason-to-think___-even-if-AI-can-objectively-think-better-than-you":
+   [{"id":
+     "The-Den--Blog-posts--A-purely-materialistic-reason-to-think___-even-if-AI-can-objectively-think-better-than-you",
+     "data":
+     {"title":
+      "A purely materialistic reason to think, even if AI can objectively think better than you",
+      "shortTitle": null,
+      "sectionNum": "3.3.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Blog posts", "shortTitle": null, "number": "3"},
+       {"title":
+        "A purely materialistic reason to think, even if AI can objectively think better than you",
+        "shortTitle": null,
+        "number": "3"}]},
+     "address":
+     "/Blog-posts/A-purely-materialistic-reason-to-think___-even-if-AI-can-objectively-think-better-than-you/"}],
+   "The-Den--Blog-posts":
+   [{"id": "The-Den--Blog-posts",
+     "data":
+     {"title": "Blog posts",
+      "shortTitle": null,
+      "sectionNum": "3.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "The Den", "shortTitle": null, "number": null},
+       {"title": "Blog posts", "shortTitle": null, "number": "3"}]},
+     "address": "/Blog-posts/"}],
+   "The-Den":
+   [{"id": "The-Den",
+     "data":
+     {"title": "The Den",
       "shortTitle": null,
       "sectionNum": "",
       "searchPriority": 50,
-      "context": [{"title": "Bonjour", "shortTitle": null, "number": null}]},
+      "context": [{"title": "The Den", "shortTitle": null, "number": null}]},
      "address": "/"}]}},
  "Verso.Genre.Manual.doc.tech":
  {"title": "Terminology",

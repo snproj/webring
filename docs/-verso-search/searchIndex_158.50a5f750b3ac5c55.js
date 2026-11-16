@@ -1,0 +1,1 @@
+window.docContents[158].resolve({"/Stupid-Joke/#The-Den--Stupid-Joke":{"contents":"This site was made with Verso using the textbook example. People tell me this isn't a normal format for a personal website, but I'd argue it's a textbook example :3\n\n","context":"The Den","header":"5. Stupid Joke","id":"/Stupid-Joke/#The-Den--Stupid-Joke"}});

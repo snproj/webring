@@ -1,0 +1,1 @@
+window.docContents[160].resolve({"/Haikus-about-cats/NUS-Cats/Jade/#The-Den--Haikus-about-cats--NUS-Cats--Jade":{"contents":"Two pieces of jade\n\nBoth inlaid with many stars\n\nWhiskers of a cat\n\n \n\n","context":"The Den\u0009Haikus about cats\u0009NUS Cats","header":"1.2.2. Jade","id":"/Haikus-about-cats/NUS-Cats/Jade/#The-Den--Haikus-about-cats--NUS-Cats--Jade"}});
