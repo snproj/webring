@@ -13,76 +13,63 @@ open Webring
 
 set_option pp.rawOnError true
 
-#doc (Manual) "Blog posts" =>
+#doc (Manual) "Useless Ramblings" =>
 
-# The Curse of Hardware -- A language-centric problem framing
+I have various ideas about things that aren't very concrete, and for my own catharsis I thought I'd express them here; I'll probably try and improve my explanations over time but for now read at your own expense :3
+
+> Note: I genuinely like the motivation section of papers and think it's a nice way to start a piece of writing -- I'm not trying to be pretentious or something I suck at actually writing papers kthxbye
+
+# The Curse of Hardware -- A useless language-based problem framing
+
+> Fair warning -- this is a terribly confusing post to read, don't read it unless you want to be confused by my terrible explanations. I'll probably try and add diagrams and more formalization to help, but I just wanted to get this thought out of my head first.
 
 :::heading
 Motivation
 :::
 
-Hardware projects come with a lot of headaches in my experience that software projects don't. In my early uni days I was involved in a project to create (and then embezzle) an E-paper laptop -- ordering circuit components and soldering them together with a friend.
+I was looking for a way to generically describe the headaches that come with working with hardware, but which are absent with software, and found that you could frame basically any problem as some kind of leaky-abstraction-esque situation. It's not very useful, but I want to write it down since it's an old idea of mine.
 
-I'm terrible with my hands; I'd often burn out components by running current in the wrong direction, or doing something or other and then that dreaded smoke would rise from the circuitry to tell you that you probably needed to buy a new one. In our case, that meant looking online for who was still in stock, begging for moar monies from the school, and then waiting for the thing to arrive in a month or so. It happened at least twice in that project alone.
+Once, I was building an E-paper laptop, and burnt out a component by running current in the wrong direction. From there, in order to complete the E-paper laptop, I'd have to look online for vendors, pay some money, and wait for the new component to arrive in a month or so. Time and money -- it was such a drag! In contrast, in a software project you could bork your entire installation, wipe it clean and restart at the cost of a few hours and no money at all. From this experience, a friend and I coined the term _the Curse of Hardware_.
 
-If only it was a software project! In software you could bork your entire installation, wipe it clean and restart at the cost of a few hours and no money at all. Over the course of our embezzlement, my friend and I coined the term _the Curse of Hardware_.
+(Yes, I know software can have similar problems too -- this is just the experience I had.)
 
 :::heading
 What is the Curse of Hardware?
 :::
 
-I'll put the final definition here first, and then we'll go through how it was formulated.
+Simply put, the Curse of Hardware is when you want to write a program in some language that does not include certain undesirable features -- however, the compile target that your language must compile into is forcing your language to include those features.
 
-> Simply put, the Curse of Hardware is when you want to write a program in some language that forgoes certain undesirable features -- however, the compile target that your language must compile into is forcing your high-level language to include those features.
+In the previous example, after I'd burnt out my component:
+- I wanted to complete the E-paper laptop (the "program" I wanted to write)
+- without spending time and money the way I ended up doing (I wanted to write the `complete_E_paper_laptop` program using a language that has no concept of time or money)
+- but of course, the universe does not work this way (the compile target refuses to cooperate)
 
-In the previous example, the curse of hardware was the friction it took to do anything with physical metal and wires, compared to just writing code and being able to fuck up and re-write / re-run things effortlessly and for free.
+Why is there a higher-level language and a compile target involved in the situation? The higher-level language is just whatever human-readable concept I come up in my mind to describe the "program"; i.e. "look for vendors that sell this component", "ask the school for funding", etc. As for the compile target, since we're talking about actions within the real-life universe (like building a laptop or talking to vendors), I'm imagining that there is some arbitrarily low-level description of the universe (say, an atom-by-atom description, and you can probably go lower -- I ain't a physicist) that your human-readable actions eventually translate to when you take them.
 
-But how might we generically describe this sort of friction?
-
-In particular:
-- We were operating in the domain of: Physically working with circuitry
-- We wanted to get a new circuit component
-- We wanted to avoid having to pay money or deal with shipping
-
-This next part is going to sound pretty ridiculous, but stay with me here -- I propose to imagine reality/the universe itself as a machine much like a CPU, where any action you take within it corresponds to some set of CPU instructions that change the machine's state.
-
-Of course, when you're a person who wants a new circuit component, usually only a very small subsection of reality is actually relevant to buying a new circuit component -- you obviously don't think about the Andromeda galaxy, nor do you think about adjusting your chair (though in principle, you could).
-
-Instead, the relevant slice of reality for your problem would be the slice that includes what we would think of as:
-- circuitry concepts
-- your actual physical circuitry, where it is located, its status etc
-- the money you have, the vendors you have access to, your own location in time and space
-- the project goals and deadlines
-
-By giving names to concepts like "the money you have", I am already starting to form a sort of higher-level language _over_ the "subsection of reality" _itself_, which I see as some kind of inscrutable, practically undescribable assembly code. I promise I'm not some kind of techbro psychotic -- this is just me assuming that there is always some kind of arbitrarily lower-level description (say, completely via atoms) that exists for the world but which is way too cumbersome to use for us.
-
-
-
-# Prescriptive versus descriptive
+So at the end of the day, this is basically a convoluted way of shaking your fist at the universe when it doesn't let you do things your way.
 
 :::heading
-Motivation
+What is this useful for?
 :::
+
+Uh, nothing probably.
+
+I do like it because it helps frame basically any problem in terms of languages, and I like languages. Unsurprisingly, it tends to be more useful when the "compile target" is a bit higher-level than the arbitrarily low-level machine code analogue of the universe.
+
+For instance, let's say:
+- I want to want to go on a trip that involves both hiking and swimming pools (the "program" I want to write)
+- I only want to pack one kind of shoe; hiking boots or slippers (I wanted to write the `go_on_a_trip` program using a language where I am restricted to only packing one kind of shoe)
+- but of course, the universe does not work this way. Instead of going directly to the arbitrarily low "universe assembly", it suffices to think of a lower-level language describing the universe that includes the facts that hiking needs hiking boots, and swimming pools require slippers.
+
+# A mental note on prescriptive versus descriptive
 
 Many discussions and debates I have with my friends go in circles and get messily tangled because of implicit mixing-up between _descriptive_ and _prescriptive_ statements; people (including me) tend to use both modes, and switch back and forth between them without making it clear.
 
-First, I'll give a brief overview of what I take each word to mean; feel free to skip if you're bored.
+I think it would be nice to have some general framing to reach for when this occurs -- I think the key is just to treat "descriptive" as the larger framing than "prescriptive".
 
-:::heading
-Classic examples of descriptivism versus prescriptivism
-:::
-
-The field of linguistics in particular, which I hold fondly in my heart, is greatly concerned about
-
-:::heading
-How they might fit together
-:::
+When a person is being prescriptive, they are expressing what they think a system should be transformed into. This implies the existence of a larger system that includes that person + the smaller system they're being prescriptive about. Expressing that larger system would be being descriptive about the same issue.
 
 # You are your own TCB -- A purely materialistic reason to do mental work, even if AI objectively does it better
-
-:::heading
-Motivation
-:::
 
 As AI improves over time, the argument that a human will always be able to think in some superior way to an AI (at least in a measurable sense) is getting dicier and dicier to make. If the day comes when we decide that AI does "think" better/faster than humans, would it make sense for humans to outsource mental work to AI?
 
@@ -90,9 +77,36 @@ As AI improves over time, the argument that a human will always be able to think
 A zoomed-in, individualistic view
 :::
 
+If you have a completely verified system, the last remaining link of trust is just how *you* know that system is verified. Did someone tell you it was verified? Did you inspect the code yourself? Maybe you trust the toolchain by reputation and statistics?
+
+It's just another way of phrasing the *intent* issue that people are facing in verification -- for all things you want to prove about your program, the *real* proof goal is in your head. Even if a 100% deterministic, machine-verified program can give you an answer, you need to take that answer, and check it against the goal in your head.
+
+Furthermore, let's step away from a situation where all we care about is a single piece of software. If you want to know something about the real world, you can always form a logical model of that world and verify that; but now you have to be able to keep track of whether that logical model fits the world well, and that system -- the system including both your logical model and the world -- does not live in software. In other words, as long as you have not formalized the entire universe, you will need to update your logical model, and checking whether the updated version fits the universe is something that you need to check in your brain.
+
+But admittedly, to some extent we can automate that. For instance, in practice we usually trust the weather data given to us by news channels -- it's not principled, but it's practical. So is there anything else you'd need to do yourself?
+
+In my opinion, yes. One source of updates to the logical model is updates to fit the state of the world around you -- that can practically be automated -- but another part of that logical model, if that model is to be useful to you in particular, is your own goals and desires.
+
+In other words, the *real* system you're dealing with isn't just your program, but a system containing your program, the rest of the universe, and finally your state of mind.
+
+Honestly, this isn't very different from trying to exist in society while maintaining a level of confidence in the beliefs you hold about your surroundings.
+
 :::heading
 A zoomed-out, anthropological view
 :::
+
+On the other hand, if we take societal evolution into account, it's plausible to me that eventually, AI and society in general will change in such a way that the systems you interface with as a member of society will start to predict what you want better than you can yourself. In that case, maybe full automation is the eventuality.
+
+Is that bleak? See the dopamine tank problem.
+
+# The dopamine tank problem
+
+If you really think about it, the canonical set of problems (the ones your mum and teacher warn you about) that arise from taking hard illegal drugs fall into several categories:
+1. They physically hurt you due to your physical body chemistry
+2. You become unable to take care of yourself / your family / society etc.
+3. You cannot secure a reliable, lifelong supply.
+
+All this begs the question -- if you had a drug and a setup where these were solved, what then? Essentially, if you were to be put in a tank of endless chemical bliss, that was somehow formulated to never physically harm you, and you had no responsibilities, you were somehow guaranteed to be taken care of your entire life, and were guaranteed a lifelong stay in the tank, would that be good? Or dystopian?
 
 # Verifiable intent -- a purely materialistic AND non-economic reason to dislike technically good AI art
 
@@ -187,7 +201,11 @@ Therefore, my differentiation between generative AI and a pen is based on:
 - The empirical knowledge that in real-world situations, a pen statistically forces the user to put more conscious effort into the output than generative AI
 - A personal threshold for tolerance of possible lack of intent
 
+:::heading
+Caveats
+:::
 
+This section will probably fill up as I find problems with my own arguments. One can of worms I can find now is that I'm assuming the semantics of an artpiece is in the head of the artist, and not the art viewer. Whether this is really the case is probably up to your own definition of art. As a person who values the agency of the artist over everything else, I think it's reasonable to say that the artist's interpretation is the canonical semantics by which the art is given meaning. It is of course almost impossible for the viewer to have the exact same semantics in his head as the artist; this simply means that the act of viewing and interpreting the original artpiece is itself a form of art -- it is as if the viewer has forked the art off into his own version.
 
 # AIPunk -- An unimaginative future work from cyberpunk
 %%%

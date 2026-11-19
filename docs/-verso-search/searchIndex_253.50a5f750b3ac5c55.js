@@ -1,1 +1,0 @@
-window.docContents[253].resolve({"/Blog-posts/Rubber-ducking-is-just-proof-sketching/#The-Den--Blog-posts--Rubber-ducking-is-just-proof-sketching":{"contents":"","context":"The Den\u0009Blog posts","header":"3.8. Rubber ducking is just proof sketching","id":"/Blog-posts/Rubber-ducking-is-just-proof-sketching/#The-Den--Blog-posts--Rubber-ducking-is-just-proof-sketching"}});
